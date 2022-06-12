@@ -13,7 +13,7 @@ brotlipy==0.7.0
 bs4==0.0.1
 cachetools==4.2.2
 certifi==2022.5.18.1
-clyent==1.2.2
+clyent==1.2.1
 comtypes==1.1.9
 conda==4.13.0
 conda-build==3.21.4
